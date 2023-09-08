@@ -1,1 +1,2 @@
 # NICE
+Welcome to NICE
